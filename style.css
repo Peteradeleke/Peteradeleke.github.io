@@ -9,6 +9,7 @@ html {
     background-size: 15%, 15%, 15%, 15%;
     background-position: left -1% top -15%, right -7.5% top -1%, left -5% bottom -10%, right -5% bottom -5%;
     background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
+    margin: 2em auto;
 }
 
 img {
@@ -16,7 +17,7 @@ img {
     vertical-align: middle;
     height: auto;
     cursor: pointer;
-    margin: 40px 0 35px 820px;
+    margin: 2em auto;
     max-width: 100%;
 }
 
@@ -53,9 +54,9 @@ p {
     display: block;
     box-sizing: border-box;
     background: #ffffff;
-    height: 830px;
+    height: 860px;
     width: 450px;
-    margin: 0px 0px 0px 700px;
+    margin: 2em auto;
     font-size: 18px;
     padding: 20px;
     border-top-right-radius: 20px;
@@ -67,7 +68,7 @@ p {
 .container {
     height: 750px;
     width: 370px;
-    margin: 32px 0 0 18px;
+    margin: 2em auto;
     overflow: auto;
 }
 
@@ -116,7 +117,7 @@ label {
     line-height: 24px;
     padding: 16px 16px 16px 16px;
     font-size: 16px;
-    margin: 20 0 0 20px;
+    margin: 18px 0 0 0;
     font-family: U8, sans-serif;
     font-weight: 700;
     text-transform: uppercase;
@@ -147,10 +148,7 @@ a.login {
     font-family: karla, sans-serif;
     white-space: nowrap;
     text-align: center;
-    padding-right: 4.5rem;
-    padding-top: 0.75rem;
-    padding-bottom: 3.5rem;
-    margin-top: 2rem;
+    margin: 2em auto;
 }
 
 a:hover {
